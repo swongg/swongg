@@ -1,6 +1,6 @@
 ### Hi there, I'm Steven 🐧
 
-I am a fourth year Computer Science student  @ UBC. Below are some random facts about me:
+I am a Computer Science student  @ UBC. Below are some random facts about me:
 
 - 😄 Pronouns: He/him/his
 - ⚡ Outside of tech, I'm interested in Music, philosophy, stocks (the Warren Buffett way) and music!
